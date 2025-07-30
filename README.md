@@ -46,6 +46,6 @@ Here are some ideas to get you started:
 ---
 
 ## 📫 Let's Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/username/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/username/](https://www.linkedin.com/in/ahmad-fadhil-herlambang-216039287/))
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/fadhilahmad.02?igsh=MmRhOXRueDBjeGIy&utm_source=qr)
 
