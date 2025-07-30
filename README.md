@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi there, I'm Ahma Fadhil Herlambang
 
-🎓 Mahasiswa Informatika | 💻 Backend Developer | 🌱 Belajar Laravel dan AI
+🎓 Mahasiswa Informatika | 💻 Backend Developer 
 
 ---
 
